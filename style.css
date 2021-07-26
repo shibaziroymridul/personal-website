@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #363958;
+}
+.menu-bar {
+  display: block;
+  height: 20px;
+  padding-bottom: 10px;
+}
+section {
+  margin-bottom: 50px;
+  display: block;
+}
+
+.top-banner,
+.about-area {
+  height: 600px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: ;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 800;
+}
+.violate-text {
+  color: #6e1fea;
+  border-bottom: 5px solid #6e1fea;
+  border-radius: 4px;
+  border-width: 10px;
+  font-weight: 900;
+  display: inline-block;
+  margin: 0;
+}
+.half-width {
+  width: 40%;
+  margin-left: 5%;
+  padding-left: 2%;
+  float: left;
+}
+.div-top-padding {
+  margin-top: 5%;
+}
+ul {
+  list-style-type: none;
+  font-weight: 700;
+}
+li {
+  float: right;
+  margin-left: 3%;
+}
+ul:last-child {
+  margin-right: 7%;
+}
+
+.bluish-link {
+  text-decoration: none;
+  background-image: linear-gradient(#6e1fea, #4225b6);
+  color: white;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.profile-img {
+  width: 80%;
+}
+.center-text {
+  text-align: center;
+  padding-top: 5%;
+}
+.red-highlight {
+  color: #f46060;
+}
+
+.one-third-width {
+  width: 29%;
+  margin-left: 1%;
+  padding: 1% 0 0 1%;
+  box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+  float: left;
+  border-radius: 10px;
+  background-color: white;
+}
+.one-third-width img {
+  width: 95%;
+}
+h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.project-area {
+  padding: 0 0 0 6%;
+  background-color: #f0eeee;
+  height: 800px;
+}
+
+.inquiry-area {
+  margin: 8% 10% 10% 10%;
+  height: 375px;
+  background-image: url("shapes/Group_33094_1.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#inquiry-h2-style {
+  color: white;
+  font-size: 250%;
+  font-weight: 1600;
+  margin-top: 22%;
+  margin-bottom: 25%;
+  margin-left: 20%;
+}
+.half-width-inquiry {
+  width: 50%;
+  float: left;
+}
+
+.chat-position {
+  padding-top: 10.8%;
+}
+
+#inquiry-link-style {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  margin-left: 45%;
+  padding: 10px 20px;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+.footer-text {
+  text-align: center;
+}
+.footer-p {
+  font-weight: 700;
+  font-size: 25px;
+}
+.footer-img {
+  margin-left: 46.2%;
+}
+.footer-img img {
+  width: 3%;
+  padding-left: 1%;
+}
+
+.testimonials {
+  height: 500px;
+  background-color: rgb(236, 241, 237);
+}
+
+.testimoial-img {
+  width: 20%;
+  margin-left: 30%;
+  border-radius: 50%;
+}
